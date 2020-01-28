@@ -8,6 +8,8 @@ approach outlined in [Zhang2016]_.
 
 .. embed::
 
+.. versionadded:: 2.1
+
 Example
 -------
 
